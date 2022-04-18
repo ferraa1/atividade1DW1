@@ -7,8 +7,6 @@
 	$escrever = isset($_POST['escrever']) ? $_POST['escrever'] : "json/valores.json";
 	$ler_valores = isset($_POST['ler_valores']) ? $_POST['ler_valores'] : "json/valores.json";
 	$ler_graficos = isset($_POST['ler_graficos']) ? $_POST['ler_graficos'] : "json/valores.json";
-	#valores ultima atividade + mediana
-	#google chart line chart html
 ?>
 <html>
 <head>
